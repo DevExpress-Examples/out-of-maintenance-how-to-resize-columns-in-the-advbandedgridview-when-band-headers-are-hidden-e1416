@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyBandedView.cs](./CS/Q203466/MyBandedView.cs)
+<!-- default file list end -->
 # How to resize columns in the AdvBandedGridView when band-headers are hidden
 
 
